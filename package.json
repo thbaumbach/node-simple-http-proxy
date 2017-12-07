@@ -1,0 +1,30 @@
+{
+  "name": "node-simple-http-proxy",
+  "version": "0.0.1",
+  "description": "very simple HTTP proxy based on hiproxy",
+  "main": "index.js",
+  "homepage": "https://github.com/thbaumbach/node-simple-http-proxy",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/thbaumbach/node-simple-http-proxy"
+  },
+  "bugs": {
+    "url": "https://github.com/thbaumbach/node-simple-http-proxy/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tunnel",
+    "http",
+    "proxy",
+    "cli",
+    "command"
+  ],
+  "author": "Thomas Baumbach <tom@xolo.pw>",
+  "license": "MIT",
+  "dependencies": {
+    "hiproxy": "~1.2.9"
+  }
+}
