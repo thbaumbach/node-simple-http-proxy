@@ -6,8 +6,8 @@
   "homepage": "https://github.com/thbaumbach/node-simple-http-proxy",
   "readmeFilename": "README.md",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/thbaumbach/node-simple-http-proxy"
+    "type": "git",
+    "url": "https://github.com/thbaumbach/node-simple-http-proxy"
   },
   "bugs": {
     "url": "https://github.com/thbaumbach/node-simple-http-proxy/issues"
