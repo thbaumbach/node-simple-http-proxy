@@ -25,8 +25,6 @@ child.on('exit', function () {
 });
 
 child.on('start', function (proc, data) {
-    console.log(proc);
-    console.log(data);
     console.log(script + ' started (' + data.pid + ')');
 });
 
